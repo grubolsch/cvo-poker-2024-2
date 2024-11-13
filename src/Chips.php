@@ -4,6 +4,7 @@
 
 namespace Src;
 
+//chips systeem
 class Chips 
 {
 
